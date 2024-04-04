@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Admin\source\repos\Final\Final\bin\Debug\Final.exe
+C:\Users\Admin\source\repos\Final\Final\bin\Debug\Final.pdb
+C:\Users\Admin\source\repos\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Final\Final\obj\Debug\Final.exe
+C:\Users\Admin\source\repos\Final\Final\obj\Debug\Final.pdb

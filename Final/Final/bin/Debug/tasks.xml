@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Title>task</Title>
+    <Description>do</Description>
+    <DueDate>2024-04-11T20:45:55.8977132+03:00</DueDate>
+  </Task>
+</ArrayOfTask>
